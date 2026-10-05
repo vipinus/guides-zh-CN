@@ -103,6 +103,7 @@
 | [10 · 路由器后面的 NAS、打印机、摄像头会受影响吗](router/10-nas-printer-camera-behind-router.md) |
 | [11 · 千兆、2G 宽带配路由器，速度由什么决定](router/11-fast-broadband-and-router-speed.md) |
 | [12 · 路由器断电、断网之后会自己恢复吗](router/12-after-power-cut-or-dropout.md) |
+| [13 · 从官方固件刷成我们的固件：一步步照着做（附视频）](router/13-flash-from-stock-firmware-step-by-step.md) |
 
 ### [排障指南](troubleshooting/)
 
