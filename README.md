@@ -17,42 +17,42 @@
 
 ## 目录
 
-### [回国访问指南 · 需要中国 IP 的那些事](huiguo/)
+### [回国访问指南 · 需要中国 IP 的那些事](china-access/)
 
 人在海外，很多国内服务会因为你的 IP 不在中国大陆而拒绝：视频、音乐、政务、银行、购票、游戏。一篇一个场景，讲清楚**为什么被拦、怎么解决、还有什么坑**。
 
 | 篇 |
 |---|
-| [01 · 哪些服务需要中国 IP](huiguo/01-what-needs-a-china-ip.md) |
-| [02 · 在国外看国内视频](huiguo/02-watch-chinese-video-abroad.md) |
-| [03 · 上国内政府与公共服务网站](huiguo/03-government-and-public-services.md) |
-| [04 · 网银、手机银行与支付](huiguo/04-banking-and-payments.md) |
-| [05 · 音乐、播客与有声书](huiguo/05-music-and-audio.md) |
-| [06 · 国服游戏与直播](huiguo/06-gaming-and-streaming.md) |
-| [07 · 在国外看国内家里的监控](huiguo/07-home-camera-abroad.md) |
-| [08 · 回国线路怎么选：国内 IP 从哪来、免费的坑在哪](huiguo/08-how-to-choose-a-huiguo-line.md) |
-| [09 · 验证码收不到与国内手机号](huiguo/09-sms-code-and-china-phone-number.md) |
-| [10 · 留学生回国 VPN 怎么配](huiguo/10-students.md) |
-| [11 · 回国 VPN 免费还是付费](huiguo/11-free-vs-paid.md) |
-| [12 · 出差旅行怎么配](huiguo/12-travel.md) |
-| [13 · 微信、支付宝与国内小程序](huiguo/13-wechat-alipay-miniprograms.md) |
-| [14 · 帮国外的长辈设置：装一次，之后不用管](huiguo/14-help-parents-abroad.md) |
-| [15 · 网课、考试报名与学历认证](huiguo/15-online-courses-and-exams.md) |
+| [01 · 哪些服务需要中国 IP](china-access/01-what-needs-a-china-ip.md) |
+| [02 · 在国外看国内视频](china-access/02-watch-chinese-video-abroad.md) |
+| [03 · 上国内政府与公共服务网站](china-access/03-government-and-public-services.md) |
+| [04 · 网银、手机银行与支付](china-access/04-banking-and-payments.md) |
+| [05 · 音乐、播客与有声书](china-access/05-music-and-audio.md) |
+| [06 · 国服游戏与直播](china-access/06-gaming-and-streaming.md) |
+| [07 · 在国外看国内家里的监控](china-access/07-home-camera-abroad.md) |
+| [08 · 回国线路怎么选：国内 IP 从哪来、免费的坑在哪](china-access/08-how-to-choose-a-china-access-line.md) |
+| [09 · 验证码收不到与国内手机号](china-access/09-sms-code-and-china-phone-number.md) |
+| [10 · 留学生回国 VPN 怎么配](china-access/10-students.md) |
+| [11 · 回国 VPN 免费还是付费](china-access/11-free-vs-paid.md) |
+| [12 · 出差旅行怎么配](china-access/12-travel.md) |
+| [13 · 微信、支付宝与国内小程序](china-access/13-wechat-alipay-miniprograms.md) |
+| [14 · 帮国外的长辈设置：装一次，之后不用管](china-access/14-help-parents-abroad.md) |
+| [15 · 网课、考试报名与学历认证](china-access/15-online-courses-and-exams.md) |
 
-### [出海访问指南 · 在国内用海外服务](chuhai/)
+### [出海访问指南 · 在国内用海外服务](overseas-access/)
 
 人在国内，办公、开发、学术、游戏、影音要用的海外服务打不开或者极慢。一篇一个场景，讲清楚**要什么、怎么选、有什么坑**。
 
 | 篇 |
 |---|
-| [01 · 哪些服务需要海外 IP，线路是怎么工作的](chuhai/01-what-needs-an-overseas-ip.md) |
-| [02 · 思科 AnyConnect 在中国能用吗](chuhai/02-anyconnect-in-china.md) |
-| [03 · 在国内选哪个地区最快：按运营商](chuhai/03-which-region-is-fastest.md) |
-| [04 · 公司电脑怎么用：没有管理员权限、已连着公司 VPN](chuhai/04-office-laptop.md) |
-| [05 · Linux 服务器和命令行工具怎么走线路](chuhai/05-linux-server.md) |
-| [06 · 群晖、威联通 NAS 怎么走线路](chuhai/06-nas-openvpn.md) |
-| [07 · 访问 AI 工具（ChatGPT、Claude、Gemini 等）](chuhai/07-ai-tools.md) |
-| [08 · 查文献、下论文、投稿](chuhai/08-academic-research.md) |
+| [01 · 哪些服务需要海外 IP，线路是怎么工作的](overseas-access/01-what-needs-an-overseas-ip.md) |
+| [02 · 思科 AnyConnect 在中国能用吗](overseas-access/02-anyconnect-in-china.md) |
+| [03 · 在国内选哪个地区最快：按运营商](overseas-access/03-which-region-is-fastest.md) |
+| [04 · 公司电脑怎么用：没有管理员权限、已连着公司 VPN](overseas-access/04-office-laptop.md) |
+| [05 · Linux 服务器和命令行工具怎么走线路](overseas-access/05-linux-server.md) |
+| [06 · 群晖、威联通 NAS 怎么走线路](overseas-access/06-nas-openvpn.md) |
+| [07 · 访问 AI 工具（ChatGPT、Claude、Gemini 等）](overseas-access/07-ai-tools.md) |
+| [08 · 查文献、下论文、投稿](overseas-access/08-academic-research.md) |
 
 ### [网络知识笔记 · Network Guides](network/)
 
@@ -125,7 +125,7 @@
 
 有问题可以在本仓库的 [Discussions](https://github.com/vipinus/guides-zh-CN/discussions) 里提问。
 
-> 本库由原来的六个仓库（huiguo-guides、chuhai-guides、network-guides、client-guides、router-guides、troubleshooting-guides）于 2026-10-04 合并而成，文章内容未改。
+> 本库由原来的六个仓库（china-access-guides、overseas-access-guides、network-guides、client-guides、router-guides、troubleshooting-guides）于 2026-10-04 合并而成，文章内容未改。
 
 ## 许可
 

@@ -38,4 +38,4 @@
 有人以为公众号打不开是"被封了"或者"账号有问题"，于是反复卸载重装。基本不是——同一篇文章，换个 IP 立刻就出来了。判断方法很简单：让国内的朋友把同一条链接打开截图给你，如果他能看你不能，那就是 IP 的事。
 
 ---
-由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=huiguo-13) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=huiguo-13)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=china-access-13) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=china-access-13)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

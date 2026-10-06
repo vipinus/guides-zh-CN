@@ -58,12 +58,12 @@
 
 ## 延伸阅读
 
-- [海外看腾讯视频提示版权限制怎么办](https://7d24hrs.com/zh-CN/guides/overseas-video?utm_source=github&utm_content=huiguo-10)
-- [回国 VPN 怎么选](https://7d24hrs.com/zh-CN/guides/huiguo-vpn?utm_source=github&utm_content=huiguo-10)
-- [AnyConnect 客户端下载](https://7d24hrs.com/zh-CN/anyconnect?utm_source=github&utm_content=huiguo-10)
-- [Hiddify 客户端与订阅导入](https://7d24hrs.com/zh-CN/singbox?utm_source=github&utm_content=huiguo-10)
+- [海外看腾讯视频提示版权限制怎么办](https://7d24hrs.com/zh-CN/guides/overseas-video?utm_source=github&utm_content=china-access-10)
+- [回国 VPN 怎么选](https://7d24hrs.com/zh-CN/guides/huiguo-vpn?utm_source=github&utm_content=china-access-10)
+- [AnyConnect 客户端下载](https://7d24hrs.com/zh-CN/anyconnect?utm_source=github&utm_content=china-access-10)
+- [Hiddify 客户端与订阅导入](https://7d24hrs.com/zh-CN/singbox?utm_source=github&utm_content=china-access-10)
 
-本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/students?utm_source=github&utm_content=huiguo-10
+本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/students?utm_source=github&utm_content=china-access-10
 
 ---
-由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=huiguo-10) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=huiguo-10)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=china-access-10) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=china-access-10)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

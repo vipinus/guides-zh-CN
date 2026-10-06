@@ -50,4 +50,4 @@ AI 工具通常在浏览器或者一个独立 App 里用。把它单独放进走
 不要在这些服务里粘贴公司机密、客户资料、未公开的代码。这和用什么线路无关——内容一旦发出去就在对方的服务器上了。
 
 ---
-由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=chuhai-07) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=chuhai-07)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=overseas-access-07) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-07)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
