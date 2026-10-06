@@ -32,7 +32,7 @@
 
 ## 画质
 
-跨境链路是瓶颈。1080p 需要稳定 5 Mbps 以上，晚上高峰期不够就降到 720p。选离你近、到大陆有优化线路的入口，比换平台管用。
+1080p 需要稳定 5 Mbps 以上。晚上高峰期卡顿就挑绿灯的地区或换一种接入方式；还是卡的话，通常是本地宽带的原因。选离你近、到大陆有优化线路的入口，比换平台管用。
 
 ---
 由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=china-access-02) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=china-access-02)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

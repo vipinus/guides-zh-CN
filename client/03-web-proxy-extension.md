@@ -2,7 +2,7 @@
 
 > 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/web-proxy?utm_source=github&utm_content=client-03
 
-网页代理只让**这个浏览器**走线路，系统里其他程序不动。不装客户端、不要管理员权限、没有「连接」状态所以不会掉线。适合公司电脑、已经连着公司 VPN、或只想让一个浏览器走线路的情况。什么时候该用它、什么时候必须用 VPN，见 [网络指南 02](../network/02-choose-your-connection-method.md)。
+网页代理只让**这个浏览器**走线路，系统里其他程序不动。不装客户端、不要管理员权限、没有「连接」状态，从理论上就不存在掉线。适合公司电脑、已经连着公司 VPN、或只想让一个浏览器走线路的情况。什么时候该用它、什么时候必须用 VPN，见 [网络指南 02](../network/02-choose-your-connection-method.md)。
 
 ## 两步
 
