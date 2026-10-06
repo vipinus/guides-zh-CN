@@ -1,6 +1,6 @@
 # 08 · 回国线路怎么选：国内 IP 从哪来、免费的坑在哪
 
-> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/huiguo-vpn?utm_source=github&utm_content=china-access-08
+> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/choose-china-vpn?utm_source=github&utm_content=china-access-08
 
 回国线路只做一件事：让你在海外发出的请求，以一个**中国大陆**的 IP 到达腾讯视频、网易云、网银。所以先看两点——出口是不是真的大陆 IP，设备上有没有流量绕过它。速度、价格、客户端都排在后面。
 

@@ -53,7 +53,7 @@
 ## 延伸阅读
 
 - [价格与免费试用](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=china-access-11)
-- [回国 VPN 怎么选](https://7d24hrs.com/zh-CN/guides/huiguo-vpn?utm_source=github&utm_content=china-access-11)
+- [回国 VPN 怎么选](https://7d24hrs.com/zh-CN/guides/choose-china-vpn?utm_source=github&utm_content=china-access-11)
 - [海外看腾讯视频提示版权限制怎么办](https://7d24hrs.com/zh-CN/guides/overseas-video?utm_source=github&utm_content=china-access-11)
 - [留学生回国 VPN 怎么配](https://7d24hrs.com/zh-CN/guides/students?utm_source=github&utm_content=china-access-11)
 
