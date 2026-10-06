@@ -131,4 +131,4 @@
 **以后升级固件要重刷吗？** 日常的小更新路由器会自己完成，不用管。只有大版本升级才需要重新生成、刷一次 sysupgrade 文件，届时网站会通知。
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

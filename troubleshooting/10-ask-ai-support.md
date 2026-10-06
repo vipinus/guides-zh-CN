@@ -51,4 +51,4 @@ AI 客服「海绵宝宝」24 小时在 Telegram、QQ、Discord 三个群里回�
 - 客服不会私聊要密码、验证码或付款，也不会主动要你装远程控制软件。
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

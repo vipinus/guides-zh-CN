@@ -52,4 +52,4 @@ Dropbox、Telegram 桌面版、Steam、网盘客户端、开发工具这类独�
 **不用流量伪装行不行？** 行，思科、私网、专网也是整机接管，软件同样设「无代理」。流量伪装的好处是自带分流、丢包多的网络上更快。
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
