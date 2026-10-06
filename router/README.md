@@ -9,7 +9,7 @@
 | 篇 |
 |---|
 | [01 · 预装路由器怎么开始](01-plug-and-play-router.md) |
-| [02 · 自己刷固件的流程](02-flash-firmware-yourself.md) |
+| [02 · 自己刷固件：从官方固件一步步照着做（附视频）](02-flash-firmware-yourself.md) |
 | [03 · 路由器分流是什么](03-router-split-routing.md) |
 | [04 · 给家里老人和电视用](04-family-tv-and-router.md) |
 | [05 · MAC 绑定与换路由器](05-mac-binding-and-replacing.md) |
@@ -20,6 +20,5 @@
 | [10 · 路由器后面的 NAS、打印机、摄像头会受影响吗](10-nas-printer-camera-behind-router.md) |
 | [11 · 千兆、2G 宽带配路由器，速度由什么决定](11-fast-broadband-and-router-speed.md) |
 | [12 · 路由器断电、断网之后会自己恢复吗](12-after-power-cut-or-dropout.md) |
-| [13 · 从官方固件刷成我们的固件：一步步照着做（附视频）](13-flash-from-stock-firmware-step-by-step.md) |
 
 [← 回到总目录](../README.md)
