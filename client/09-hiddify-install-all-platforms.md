@@ -92,7 +92,7 @@ deb 包是 x64 的；ARM 的 Linux 设备用专网（OpenVPN），账号通用�
 
 **ARM 的 Windows 或 Linux 电脑能用吗？** 能，用专网（OpenVPN）等其他接入方式，账号通用；Hiddify 桌面包目前是 x64 的。
 
-**不想折腾放行步骤？** 思科（Cisco Secure Client）、专网（OpenVPN Connect）、私网（Tailscale）都是厂商签名的客户端，不会被报毒，Mac 上也不会提示「已损坏」，账号是同一个。
+**不想折腾放行步骤？** 思科（Cisco Secure Client）、专网（OpenVPN Connect）、私网（Tailscale）的客户端都是双击即用，不会被报毒，Mac 上也不会提示「已损坏」，账号是同一个。
 
 ## 延伸阅读
 
