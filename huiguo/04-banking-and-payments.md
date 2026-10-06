@@ -27,4 +27,4 @@
 不要在公共 Wi-Fi 上做银行操作，不管走不走线路。线路只改变你的出口 IP，不会替你加密到银行之外的东西，银行 App 本身的加密才是安全的来源。
 
 ---
-由 [雷顿](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=huiguo-04) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=huiguo-04)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

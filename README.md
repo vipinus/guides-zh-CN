@@ -2,7 +2,7 @@
 
 > 2026-10-05 起中文名由「蓝盾」改为「雷顿」（英文名 LeoTun 不变），同一家、同一个团队，账号与服务都不变。
 
-跨境访问的原理、场景、客户端设置、路由器与排障，一篇讲一件事，不堆术语。由 [雷顿](https://7d24hrs.com) 团队维护。
+跨境访问的原理、场景、客户端设置、路由器与排障，一篇讲一件事，不堆术语。由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=readme) 团队维护。
 
 其他语言：[繁體中文](https://github.com/vipinus/guides-zh-TW) · [English](https://github.com/vipinus/guides-en)
 
@@ -13,7 +13,7 @@
 | 注册后领免费试用 | 24 小时全功能试用，不要信用卡 |
 | 邀请朋友注册并首次付费 | 你的有效期 +30 天（家庭档 +15 天、企业档 +7.5 天），每位朋友一次，人数不限 |
 
-网站：<https://7d24hrs.com> · 进群问客服：<https://t.me/+NWJN_9yITj9kOWFh>
+网站：<https://7d24hrs.com/zh-CN?utm_source=github&utm_content=readme> · 联系我们：<https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=readme>
 
 ## 目录
 

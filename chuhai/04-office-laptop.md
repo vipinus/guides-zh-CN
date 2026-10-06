@@ -41,12 +41,12 @@
 
 ## 延伸阅读
 
-- [网页代理设置页：扩展安装与恢复地址](https://7d24hrs.com/zh-CN/httpproxy)
-- [网页代理是什么、什么时候用](https://7d24hrs.com/zh-CN/guides/web-proxy)
-- [Linux 服务器和命令行工具怎么走线路](https://7d24hrs.com/zh-CN/guides/linux-server)
-- [各种连接方式适用的场景](https://7d24hrs.com/zh-CN/guides/choose-connection)
+- [网页代理设置页：扩展安装与恢复地址](https://7d24hrs.com/zh-CN/httpproxy?utm_source=github&utm_content=chuhai-04)
+- [网页代理是什么、什么时候用](https://7d24hrs.com/zh-CN/guides/web-proxy?utm_source=github&utm_content=chuhai-04)
+- [Linux 服务器和命令行工具怎么走线路](https://7d24hrs.com/zh-CN/guides/linux-server?utm_source=github&utm_content=chuhai-04)
+- [各种连接方式适用的场景](https://7d24hrs.com/zh-CN/guides/choose-connection?utm_source=github&utm_content=chuhai-04)
 
-本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/office-laptop
+本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/office-laptop?utm_source=github&utm_content=chuhai-04
 
 ---
-由 [雷顿](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=chuhai-04) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=chuhai-04)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

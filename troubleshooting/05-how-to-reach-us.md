@@ -1,8 +1,8 @@
 # 05 · 怎么联系我们、怎么不失联
 
-> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/stay-in-touch
+> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/stay-in-touch?utm_source=github&utm_content=troubleshooting-05
 
-[联络页](https://7d24hrs.com/contact)上有三个客服群（QQ、Telegram、Discord）、客服邮箱和人工客服 QQ。三个群里都有 AI 客服「海绵宝宝」24 小时待命，群主和人工客服也在。怎么问它答得最准，见 [10](10-ask-ai-support.md)。
+[联络页](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-05)上有三个客服群（QQ、Telegram、Discord）、客服邮箱和人工客服 QQ。三个群里都有 AI 客服「海绵宝宝」24 小时待命，群主和人工客服也在。怎么问它答得最准，见 [10](10-ask-ai-support.md)。
 
 ## 三个群怎么选
 
@@ -36,4 +36,4 @@
 - 别在群里贴配置文件、二维码、订阅链接——那等于你的账号。
 
 ---
-由 [雷顿](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=troubleshooting-05) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=troubleshooting-05)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

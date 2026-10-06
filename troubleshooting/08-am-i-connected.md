@@ -88,12 +88,12 @@
 
 ## 延伸阅读
 
-- [连不上、慢、断线怎么查](https://7d24hrs.com/zh-CN/guides/connect-issues)
-- [在国内选哪个地区最快](https://7d24hrs.com/zh-CN/guides/pick-region)
-- [各种连接方式适用的场景](https://7d24hrs.com/zh-CN/guides/choose-connection)
-- [网页代理是什么、什么时候用](https://7d24hrs.com/zh-CN/guides/web-proxy)
-- [路由器固件能做什么](https://7d24hrs.com/zh-CN/guides/router-firmware)
-- [海外看腾讯视频提示版权限制怎么办](https://7d24hrs.com/zh-CN/guides/overseas-video)
+- [连不上、慢、断线怎么查](https://7d24hrs.com/zh-CN/guides/connect-issues?utm_source=github&utm_content=troubleshooting-08)
+- [在国内选哪个地区最快](https://7d24hrs.com/zh-CN/guides/pick-region?utm_source=github&utm_content=troubleshooting-08)
+- [各种连接方式适用的场景](https://7d24hrs.com/zh-CN/guides/choose-connection?utm_source=github&utm_content=troubleshooting-08)
+- [网页代理是什么、什么时候用](https://7d24hrs.com/zh-CN/guides/web-proxy?utm_source=github&utm_content=troubleshooting-08)
+- [路由器固件能做什么](https://7d24hrs.com/zh-CN/guides/router-firmware?utm_source=github&utm_content=troubleshooting-08)
+- [海外看腾讯视频提示版权限制怎么办](https://7d24hrs.com/zh-CN/guides/overseas-video?utm_source=github&utm_content=troubleshooting-08)
 
 ---
-由 [雷顿](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=troubleshooting-08) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=troubleshooting-08)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

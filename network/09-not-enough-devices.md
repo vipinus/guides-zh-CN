@@ -48,12 +48,12 @@
 
 ## 延伸阅读
 
-- [多设备一次配置、换手机不重来](https://7d24hrs.com/zh-CN/guides/multi-device)
-- [翻墙路由器怎么选](https://7d24hrs.com/zh-CN/guides/router)
-- [各种连接方式适用的场景](https://7d24hrs.com/zh-CN/guides/choose-connection)
-- [我们和其他 VPN 的区别](https://7d24hrs.com/zh-CN/guides/why-us)
+- [多设备一次配置、换手机不重来](https://7d24hrs.com/zh-CN/guides/multi-device?utm_source=github&utm_content=network-09)
+- [翻墙路由器怎么选](https://7d24hrs.com/zh-CN/guides/router?utm_source=github&utm_content=network-09)
+- [各种连接方式适用的场景](https://7d24hrs.com/zh-CN/guides/choose-connection?utm_source=github&utm_content=network-09)
+- [我们和其他 VPN 的区别](https://7d24hrs.com/zh-CN/guides/why-us?utm_source=github&utm_content=network-09)
 
-本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/device-limit
+本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-由 [雷顿](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=network-09) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=network-09)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

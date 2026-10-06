@@ -58,12 +58,12 @@ VPN 是系统级的：它拿到的是设备上所有程序的流量，包括你�
 
 ## 延伸阅读
 
-- [我们和其他 VPN 的区别](https://7d24hrs.com/zh-CN/guides/why-us)
-- [回国 VPN 免费还是付费](https://7d24hrs.com/zh-CN/guides/free-vs-paid)
-- [海外看腾讯视频提示版权限制怎么办](https://7d24hrs.com/zh-CN/guides/overseas-video)
-- [关于我们：怎么建、记录什么](https://7d24hrs.com/zh-CN/about)
+- [我们和其他 VPN 的区别](https://7d24hrs.com/zh-CN/guides/why-us?utm_source=github&utm_content=network-05)
+- [回国 VPN 免费还是付费](https://7d24hrs.com/zh-CN/guides/free-vs-paid?utm_source=github&utm_content=network-05)
+- [海外看腾讯视频提示版权限制怎么办](https://7d24hrs.com/zh-CN/guides/overseas-video?utm_source=github&utm_content=network-05)
+- [关于我们：怎么建、记录什么](https://7d24hrs.com/zh-CN/about?utm_source=github&utm_content=network-05)
 
-本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/risky-vpn-apps
+本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/risky-vpn-apps?utm_source=github&utm_content=network-05
 
 ---
-由 [雷顿](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=network-05) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=network-05)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

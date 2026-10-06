@@ -39,12 +39,12 @@
 
 ## 延伸阅读
 
-- [思科 AnyConnect 下载与设置](https://7d24hrs.com/zh-CN/anyconnect)
-- [留学生回国 VPN 怎么配](https://7d24hrs.com/zh-CN/guides/students)
-- [怎么联系我们、怎么不失联](https://7d24hrs.com/zh-CN/guides/stay-in-touch)
-- [回国 VPN 免费还是付费](https://7d24hrs.com/zh-CN/guides/free-vs-paid)
+- [思科 AnyConnect 下载与设置](https://7d24hrs.com/zh-CN/anyconnect?utm_source=github&utm_content=huiguo-12)
+- [留学生回国 VPN 怎么配](https://7d24hrs.com/zh-CN/guides/students?utm_source=github&utm_content=huiguo-12)
+- [怎么联系我们、怎么不失联](https://7d24hrs.com/zh-CN/guides/stay-in-touch?utm_source=github&utm_content=huiguo-12)
+- [回国 VPN 免费还是付费](https://7d24hrs.com/zh-CN/guides/free-vs-paid?utm_source=github&utm_content=huiguo-12)
 
-本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/travel
+本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/travel?utm_source=github&utm_content=huiguo-12
 
 ---
-由 [雷顿](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=huiguo-12) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=huiguo-12)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

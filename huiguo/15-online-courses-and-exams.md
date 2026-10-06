@@ -47,4 +47,4 @@
 不少高校给学生发校内 VPN，用来访问图书馆数据库。那个和这里说的是两回事，也不冲突：校内 VPN 解决的是"你有没有权限用这个数据库"，而你首先得能连到学校的服务器。两者可以叠加使用。
 
 ---
-由 [雷顿](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=huiguo-15) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=huiguo-15)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

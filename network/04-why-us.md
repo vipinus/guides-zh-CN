@@ -63,12 +63,12 @@
 
 ## 延伸阅读
 
-- [各种连接方式适用的场景](https://7d24hrs.com/zh-CN/guides/choose-connection)
-- [如何识别有风险的 VPN 软件](https://7d24hrs.com/zh-CN/guides/risky-vpn-apps)
-- [回国 VPN 免费还是付费](https://7d24hrs.com/zh-CN/guides/free-vs-paid)
-- [关于我们：怎么建、记录什么](https://7d24hrs.com/zh-CN/about)
+- [各种连接方式适用的场景](https://7d24hrs.com/zh-CN/guides/choose-connection?utm_source=github&utm_content=network-04)
+- [如何识别有风险的 VPN 软件](https://7d24hrs.com/zh-CN/guides/risky-vpn-apps?utm_source=github&utm_content=network-04)
+- [回国 VPN 免费还是付费](https://7d24hrs.com/zh-CN/guides/free-vs-paid?utm_source=github&utm_content=network-04)
+- [关于我们：怎么建、记录什么](https://7d24hrs.com/zh-CN/about?utm_source=github&utm_content=network-04)
 
-本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/why-us
+本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-由 [雷顿](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=network-04) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=network-04)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

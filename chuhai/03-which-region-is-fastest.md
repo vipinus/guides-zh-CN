@@ -1,6 +1,6 @@
 # 03 · 在国内选哪个地区最快：按运营商
 
-> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/pick-region
+> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/pick-region?utm_source=github&utm_content=chuhai-03
 
 同一个服务、同一种协议，在不同地区的速度差好几倍，原因不在服务器，在**你的运营商到那个地区的出口线路**。所以选地区先看运营商，再看时段，最后才看服务器。
 
@@ -33,4 +33,4 @@
 4. 取两次都不差的那个当默认，另一个当备用。
 
 ---
-由 [雷顿](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=chuhai-03) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=chuhai-03)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
