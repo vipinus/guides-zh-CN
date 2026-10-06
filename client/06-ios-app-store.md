@@ -6,7 +6,7 @@ iPhone 上搜不到 Hiddify、Tailscale、Telegram，或者提示「此项目在
 
 App Store 按 Apple ID 的地区分商店，不同地区上架的应用不同。中国区商店没有 Hiddify 和 Tailscale，Telegram、Discord 也时有时无；Cisco Secure Client、OpenVPN Connect 在多数地区都有。这是上架差异，不是应用的问题，换个地区的账号就能装。
 
-本站的流量伪装（Hiddify）和私网（Tailscale）在 iPhone 上都要走 App Store，所以这一步绕不开；安卓、Windows、macOS 的安装包本站直接提供，不受影响。
+本站的流量伪装（Hiddify）和私网（Tailscale）在 iPhone 上都从 App Store 安装，按下面的步骤换一个地区的 Apple ID 即可；安卓、Windows、macOS 的安装包本站直接提供，不受影响。
 
 ## 方案一（推荐）：新注册一个非中国区 Apple ID
 

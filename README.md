@@ -66,7 +66,7 @@
 | [04 · 我们和其他 VPN 的区别](network/04-why-us.md) |
 | [05 · 如何识别有风险的 VPN 软件](network/05-risky-vpn-apps.md) |
 | [06 · 为什么有时候快、有时候慢](network/06-why-sometimes-fast-sometimes-slow.md) |
-| [07 · 什么时候你其实不需要我们](network/07-when-you-do-not-need-us.md) |
+| [07 · 哪些问题靠线路解决，哪些要另找办法](network/07-when-you-do-not-need-us.md) |
 | [08 · 账号三档怎么选、续费与付款](network/08-account-tiers-and-payment.md) |
 | [09 · 连接不够设备用怎么办](network/09-not-enough-devices.md) |
 
