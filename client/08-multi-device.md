@@ -5,7 +5,7 @@
 ## 每台设备只做一次的事
 
 1. 装 Tailscale 客户端（安卓、Windows、macOS、Linux 从本站私网页面的下载区装，iPhone / iPad 用 App Store，需要非中国区 Apple ID）。
-2. 登录过 Tailscale 官方账号的先退出，再把登录指向本站的控制服务器（手机：未登录界面「⋯」→ Use custom server；电脑：复制页面上那条命令；macOS：按住 Option 点图标 → Debug → Custom Login Server）。
+2. 登录过 Tailscale 官方账号的先退出，再把登录指向本站的控制服务器（手机：未登录界面「⋯」→ Use custom server；电脑：复制页面上那条命令；macOS：Account Settings → Accounts →「Add Account…」旁的箭头 → Add Account Using Alternate Server）。
 3. 浏览器里用本站账号确认。之后这台设备就在私网里了，不用再碰。
 4. 选出口：每台设备在自己的菜单里选，各选各的。不走出口选 None，只保留设备互访。
 
