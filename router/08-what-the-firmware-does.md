@@ -1,6 +1,6 @@
 # 08 · 固件装好之后：会自己做的事，和你要知道的几个开关
 
-> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/router-firmware?utm_source=github&utm_content=router-08
+> 网站版（更长、含繁体与英文）：https://www.leotun.com/zh-CN/guides/router-firmware?utm_source=github&utm_content=router-08
 
 刷好本站固件或买到预装机之后，只需要在管理页登录账号。这篇讲固件**自己会做**的几件事和几个你可能要动的开关；上手见 [01](01-plug-and-play-router.md)，分流见 [03](03-router-split-routing.md)，绑定与换机见 [05](05-mac-binding-and-replacing.md)。
 
@@ -45,4 +45,4 @@
 **固件有没有后门？** 基于 OpenWrt 编译，只多了连线路的组件和分流规则；线路只记录连接时长和流量总量用于计费。
 
 ---
-由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=router-08) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=router-08)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=router-08) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=router-08)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

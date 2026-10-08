@@ -22,4 +22,4 @@
 "绑定冲突"多数是家里两台路由器都登录了同一个账号。保留一台，另一台退出登录，再解绑重绑一次。
 
 ---
-由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=router-05) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=router-05)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=router-05) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=router-05)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

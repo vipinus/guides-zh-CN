@@ -96,11 +96,11 @@ deb 包是 x64 的；ARM 的 Linux 设备用专网（OpenVPN），账号通用�
 
 ## 延伸阅读
 
-- [伪装页：客户端下载与各地区二维码](https://7d24hrs.com/zh-CN/singbox?utm_source=github&utm_content=client-09)
-- [Hiddify 订阅链接怎么导入](https://7d24hrs.com/zh-CN/guides/singbox-subscription?utm_source=github&utm_content=client-09)
-- [客户端被报毒 / Mac 提示已损坏：先验证，再放行](https://7d24hrs.com/zh-CN/guides/antivirus-false-positive?utm_source=github&utm_content=client-09)
-- [macOS「网络扩展」授权是什么、怎么放行](https://7d24hrs.com/zh-CN/guides/macos-network-extension?utm_source=github&utm_content=client-09)
-- [iOS 装不了应用怎么办](https://7d24hrs.com/zh-CN/guides/ios-app-store?utm_source=github&utm_content=client-09)
+- [伪装页：客户端下载与各地区二维码](https://www.leotun.com/zh-CN/singbox?utm_source=github&utm_content=client-09)
+- [Hiddify 订阅链接怎么导入](https://www.leotun.com/zh-CN/guides/singbox-subscription?utm_source=github&utm_content=client-09)
+- [客户端被报毒 / Mac 提示已损坏：先验证，再放行](https://www.leotun.com/zh-CN/guides/antivirus-false-positive?utm_source=github&utm_content=client-09)
+- [macOS「网络扩展」授权是什么、怎么放行](https://www.leotun.com/zh-CN/guides/macos-network-extension?utm_source=github&utm_content=client-09)
+- [iOS 装不了应用怎么办](https://www.leotun.com/zh-CN/guides/ios-app-store?utm_source=github&utm_content=client-09)
 
 ---
-由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=client-09) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=client-09)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=client-09) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=client-09)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

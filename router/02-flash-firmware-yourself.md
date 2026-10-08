@@ -1,8 +1,8 @@
 # 02 · 自己刷固件：从官方固件一步步照着做（附视频）
 
-> 视频教程（约两分半，中英文配音）：https://7d24hrs.com/zh-CN/video/router-flash?utm_source=github&utm_content=router-02
+> 视频教程（约两分半，中英文配音）：https://www.leotun.com/zh-CN/video/router-flash?utm_source=github&utm_content=router-02
 >
-> 网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/router-flash?utm_source=github&utm_content=router-02
+> 网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/router-flash?utm_source=github&utm_content=router-02
 
 适合已经有路由器、且型号在支持列表里的人：手里有一台还是官方系统的路由器，从打开网站到全家连上线路，每一步点哪里、会看到什么、哪里容易出错。演示用的是 GL.iNet GL-MT3000，其他型号步骤相同，只是官方管理页长得不一样。不想自己动手的，买预装的更省事，见 [01 · 预装路由器怎么开始](01-plug-and-play-router.md)；型号怎么选见 [07](07-which-router-to-buy.md)。
 
@@ -131,4 +131,4 @@
 **以后升级固件要重刷吗？** 日常的小更新路由器会自己完成，不用管。只有大版本升级才需要重新生成、刷一次 sysupgrade 文件，届时网站会通知。
 
 ---
-由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=router-02) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=router-02)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=router-02) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=router-02)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

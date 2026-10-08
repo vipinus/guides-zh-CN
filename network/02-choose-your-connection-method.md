@@ -70,12 +70,12 @@
 
 ## 延伸阅读
 
-- [我们和其他 VPN 的区别](https://7d24hrs.com/zh-CN/guides/why-us?utm_source=github&utm_content=network-02)
-- [私网（Tailscale）是什么](https://7d24hrs.com/zh-CN/guides/tailscale-mesh?utm_source=github&utm_content=network-02)
-- [OpenVPN 怎么用、什么时候选它](https://7d24hrs.com/zh-CN/guides/openvpn-setup?utm_source=github&utm_content=network-02)
-- [网页代理是什么、什么时候用](https://7d24hrs.com/zh-CN/guides/web-proxy?utm_source=github&utm_content=network-02)
+- [我们和其他 VPN 的区别](https://www.leotun.com/zh-CN/guides/why-us?utm_source=github&utm_content=network-02)
+- [私网（Tailscale）是什么](https://www.leotun.com/zh-CN/guides/tailscale-mesh?utm_source=github&utm_content=network-02)
+- [OpenVPN 怎么用、什么时候选它](https://www.leotun.com/zh-CN/guides/openvpn-setup?utm_source=github&utm_content=network-02)
+- [网页代理是什么、什么时候用](https://www.leotun.com/zh-CN/guides/web-proxy?utm_source=github&utm_content=network-02)
 
-本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/choose-connection?utm_source=github&utm_content=network-02
+本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/choose-connection?utm_source=github&utm_content=network-02
 
 ---
-由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=network-02) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=network-02)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-02) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-02)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

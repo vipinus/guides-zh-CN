@@ -110,11 +110,11 @@
 
 ## 延伸阅读
 
-- [价格与免费试用（首页）](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=network-08)
-- [回国 VPN 免费还是付费](https://7d24hrs.com/zh-CN/guides/free-vs-paid?utm_source=github&utm_content=network-08)
-- [多设备一次配置、换手机不重来](https://7d24hrs.com/zh-CN/guides/multi-device?utm_source=github&utm_content=network-08)
-- [我们和其他 VPN 的区别](https://7d24hrs.com/zh-CN/guides/why-us?utm_source=github&utm_content=network-08)
-- [常见问题与联系客服](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=network-08)
+- [价格与免费试用（首页）](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-08)
+- [回国 VPN 免费还是付费](https://www.leotun.com/zh-CN/guides/free-vs-paid?utm_source=github&utm_content=network-08)
+- [多设备一次配置、换手机不重来](https://www.leotun.com/zh-CN/guides/multi-device?utm_source=github&utm_content=network-08)
+- [我们和其他 VPN 的区别](https://www.leotun.com/zh-CN/guides/why-us?utm_source=github&utm_content=network-08)
+- [常见问题与联系客服](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-08)
 
 ---
-由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=network-08) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=network-08)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-08) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-08)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

@@ -46,12 +46,12 @@ NAS 是家里最需要走线路又最没人管的设备：下载器要连海外�
 
 ## 延伸阅读
 
-- [专网页：客户端下载与配置文件](https://7d24hrs.com/zh-CN/openvpn?utm_source=github&utm_content=overseas-access-06)
-- [OpenVPN 怎么用、什么时候选它](https://7d24hrs.com/zh-CN/guides/openvpn-setup?utm_source=github&utm_content=overseas-access-06)
-- [在国外看国内家里的监控和 NAS](https://7d24hrs.com/zh-CN/guides/home-camera?utm_source=github&utm_content=overseas-access-06)
-- [Linux 服务器和命令行工具怎么走线路](https://7d24hrs.com/zh-CN/guides/linux-server?utm_source=github&utm_content=overseas-access-06)
+- [专网页：客户端下载与配置文件](https://www.leotun.com/zh-CN/openvpn?utm_source=github&utm_content=overseas-access-06)
+- [OpenVPN 怎么用、什么时候选它](https://www.leotun.com/zh-CN/guides/openvpn-setup?utm_source=github&utm_content=overseas-access-06)
+- [在国外看国内家里的监控和 NAS](https://www.leotun.com/zh-CN/guides/home-camera?utm_source=github&utm_content=overseas-access-06)
+- [Linux 服务器和命令行工具怎么走线路](https://www.leotun.com/zh-CN/guides/linux-server?utm_source=github&utm_content=overseas-access-06)
 
-本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-06
+本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-06
 
 ---
-由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=overseas-access-06) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-06)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=overseas-access-06) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-06)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

@@ -41,12 +41,12 @@
 
 ## 延伸阅读
 
-- [私网页：下载与登录步骤](https://7d24hrs.com/zh-CN/mesh?utm_source=github&utm_content=client-08)
-- [私网（Tailscale）是什么](https://7d24hrs.com/zh-CN/guides/tailscale-mesh?utm_source=github&utm_content=client-08)
-- [在国外看国内家里的监控和 NAS](https://7d24hrs.com/zh-CN/guides/home-camera?utm_source=github&utm_content=client-08)
-- [路由器固件能做什么](https://7d24hrs.com/zh-CN/guides/router-firmware?utm_source=github&utm_content=client-08)
+- [私网页：下载与登录步骤](https://www.leotun.com/zh-CN/mesh?utm_source=github&utm_content=client-08)
+- [私网（Tailscale）是什么](https://www.leotun.com/zh-CN/guides/tailscale-mesh?utm_source=github&utm_content=client-08)
+- [在国外看国内家里的监控和 NAS](https://www.leotun.com/zh-CN/guides/home-camera?utm_source=github&utm_content=client-08)
+- [路由器固件能做什么](https://www.leotun.com/zh-CN/guides/router-firmware?utm_source=github&utm_content=client-08)
 
-本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/multi-device?utm_source=github&utm_content=client-08
+本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/multi-device?utm_source=github&utm_content=client-08
 
 ---
-由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=client-08) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=client-08)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=client-08) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=client-08)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

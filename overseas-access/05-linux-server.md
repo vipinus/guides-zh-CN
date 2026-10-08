@@ -51,12 +51,12 @@ Docker 守护进程不读 shell 环境变量，要写进 /etc/systemd/system/doc
 
 ## 延伸阅读
 
-- [专网页：客户端下载与配置文件](https://7d24hrs.com/zh-CN/openvpn?utm_source=github&utm_content=overseas-access-05)
-- [OpenVPN 怎么用、什么时候选它](https://7d24hrs.com/zh-CN/guides/openvpn-setup?utm_source=github&utm_content=overseas-access-05)
-- [群晖、威联通 NAS 怎么走线路](https://7d24hrs.com/zh-CN/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-05)
-- [网页代理是什么、什么时候用](https://7d24hrs.com/zh-CN/guides/web-proxy?utm_source=github&utm_content=overseas-access-05)
+- [专网页：客户端下载与配置文件](https://www.leotun.com/zh-CN/openvpn?utm_source=github&utm_content=overseas-access-05)
+- [OpenVPN 怎么用、什么时候选它](https://www.leotun.com/zh-CN/guides/openvpn-setup?utm_source=github&utm_content=overseas-access-05)
+- [群晖、威联通 NAS 怎么走线路](https://www.leotun.com/zh-CN/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-05)
+- [网页代理是什么、什么时候用](https://www.leotun.com/zh-CN/guides/web-proxy?utm_source=github&utm_content=overseas-access-05)
 
-本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/linux-server?utm_source=github&utm_content=overseas-access-05
+本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/linux-server?utm_source=github&utm_content=overseas-access-05
 
 ---
-由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=overseas-access-05) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-05)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=overseas-access-05) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-05)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

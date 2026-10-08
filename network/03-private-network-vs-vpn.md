@@ -1,6 +1,6 @@
 # 03 · 私网（Tailscale）和 VPN 的区别，什么时候该用它
 
-> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/tailscale-mesh?utm_source=github&utm_content=network-03
+> 网站版（更长、含繁体与英文）：https://www.leotun.com/zh-CN/guides/tailscale-mesh?utm_source=github&utm_content=network-03
 
 私网栏目用的是 Tailscale：基于 WireGuard 的组网工具，雷顿自己运行控制服务器，你用本站账号登录。它和 AnyConnect、OpenVPN 这类「连接型」VPN 不是一回事。
 
@@ -31,4 +31,4 @@
 安装与登录步骤见 [客户端指南 05](../client/05-tailscale-private-network.md)。
 
 ---
-由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=network-03) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=network-03)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-03) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-03)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

@@ -1,6 +1,6 @@
 # 02 · 思科 AnyConnect 在中国能用吗
 
-> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/anyconnect-china?utm_source=github&utm_content=overseas-access-02
+> 网站版（更长、含繁体与英文）：https://www.leotun.com/zh-CN/guides/anyconnect-china?utm_source=github&utm_content=overseas-access-02
 
 能。AnyConnect 是思科的企业 VPN 协议，全世界的公司靠它让员工远程办公，外企在华分支每天都在用，整体被禁的代价太高。**真正会被封的是某一个服务器地址，不是协议。** 所以"能不能用"取决于服务商有没有足够多的地址、换得够不够快。
 
@@ -42,4 +42,4 @@
 **长时间连着会自动断吗？** 不会因为时间断。账号到期时服务器会主动断开，续费后重连即可。
 
 ---
-由 [雷顿](https://7d24hrs.com/zh-CN?utm_source=github&utm_content=overseas-access-02) 团队整理 · 问题来 [联系页面](https://7d24hrs.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-02)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=overseas-access-02) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-02)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
