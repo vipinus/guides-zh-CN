@@ -1,6 +1,5 @@
 # 雷腾知识库
 
-> 2026-10-05 起中文名由「蓝盾」改为「雷腾」（英文名 LeoTun 不变），同一家、同一个团队，账号与服务都不变。
 
 跨境访问的原理、场景、客户端设置、路由器与排障，一篇讲一件事，不堆术语。由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=readme) 团队维护。
 
