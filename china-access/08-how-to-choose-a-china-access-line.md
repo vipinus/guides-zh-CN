@@ -48,9 +48,9 @@
 
 **用香港节点能看腾讯视频吗？** 不能，版权授权只覆盖大陆。
 
-**一个账号几台设备？** 雷顿 按档位同时在线：个人 2 台、家庭 4 台、企业 8 台；路由器算一台，它后面的设备不再单独计数。同时在线超过档位上限时，可以临时升级账号类型（剩余时间按价格等值折算），用完之后再切回。
+**一个账号几台设备？** 雷腾 按档位同时在线：个人 2 台、家庭 4 台、企业 8 台；路由器算一台，它后面的设备不再单独计数。同时在线超过档位上限时，可以临时升级账号类型（剩余时间按价格等值折算），用完之后再切回。
 
-**能用 Clash 吗？** 能。雷顿同时给 Hiddify 配置地址和 hysteria2 分享链接，Clash Meta 导入分享链接即可；导入后把国内域名设成走节点，别设"直连"。
+**能用 Clash 吗？** 能。雷腾同时给 Hiddify 配置地址和 hysteria2 分享链接，Clash Meta 导入分享链接即可；导入后把国内域名设成走节点，别设"直连"。
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-08) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-08)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-08) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-08)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

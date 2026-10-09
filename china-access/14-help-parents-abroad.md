@@ -44,4 +44,4 @@
 你在国外也能远程帮他们看。设置的时候留一下我们的联系方式，出问题时让他们发一句"看不了了"，剩下的由你或者客服判断，不需要他们描述任何技术细节。
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-14) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-14)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-14) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-14)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

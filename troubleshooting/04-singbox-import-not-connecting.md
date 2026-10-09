@@ -25,4 +25,4 @@
 把三样告诉客服：客户端名字和版本、地区、报错原文或截图。
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=troubleshooting-04) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=troubleshooting-04)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=troubleshooting-04) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=troubleshooting-04)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

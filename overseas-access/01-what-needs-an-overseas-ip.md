@@ -27,4 +27,4 @@
 - **用着国内 App 时不用全走线路。** 开分流：国内网站直连、海外网站走线路，两边都不绕远，见 [路由器分流](../router/03-router-split-routing.md)。
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=overseas-access-01) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-01)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=overseas-access-01) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-01)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

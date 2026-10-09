@@ -41,7 +41,7 @@
 打开 RustDesk，主界面会显示本机的 ID 和一次性密码。交出去之前先确认三件事：
 
 1. **是你先提出的。** 你在[联络页](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=troubleshooting-09)上的官方群里描述了问题，客服认为需要远程，才进行下一步。我们的客服不会主动找你、要求你装远程软件或索取连接码；谁主动来要，都先到官方群核实。
-2. **只发给官方客服渠道**：联络页上列出的人工客服。群外自称「雷顿客服」的私聊都不是我们。
+2. **只发给官方客服渠道**：联络页上列出的人工客服。群外自称「雷腾客服」的私聊都不是我们。
 3. **别发到群里。** 群是很多人都能看到的地方，ID 加密码等于把电脑的钥匙贴在门上。
 
 ## 协助过程中
@@ -83,4 +83,4 @@
 - [01 · 连不上、慢、断线的排查清单](01-cannot-connect-slow-drops.md)
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=troubleshooting-09) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=troubleshooting-09)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=troubleshooting-09) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=troubleshooting-09)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

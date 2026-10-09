@@ -13,7 +13,7 @@
 | 移动、长城等 | 中国区入口 | 客户端只连国内地址，跨境这一段由我们处理，不受跨境干扰 |
 | 手机流量 | 各家不同，和宽带分开试 | 同一部手机 Wi‑Fi 和流量的最优地区经常不一样 |
 
-雷顿的地区列表会用**红黄绿灯**显示每个地区当前负载，同样是日本，挑绿灯的那台。
+雷腾的地区列表会用**红黄绿灯**显示每个地区当前负载，同样是日本，挑绿灯的那台。
 
 ## 再看时段
 
@@ -33,4 +33,4 @@
 4. 取两次都不差的那个当默认，另一个当备用。
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=overseas-access-03) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-03)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=overseas-access-03) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-03)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

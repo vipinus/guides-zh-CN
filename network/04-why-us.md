@@ -1,6 +1,6 @@
 # 04 · 我们和其他 VPN 的区别
 
-市面上的 VPN 大致三类：面向全球用户的国际大牌、国内圈子里的「机场」、以及各种免费软件。雷顿 从 2007 年起自建服务器，只做一件事——让中国大陆用户和海外华人两边都连得稳。这篇把我们和三类产品逐项摆在一起，各自适合谁、我们是怎么做的，付费前先看清楚。
+市面上的 VPN 大致三类：面向全球用户的国际大牌、国内圈子里的「机场」、以及各种免费软件。雷腾 从 2007 年起自建服务器，只做一件事——让中国大陆用户和海外华人两边都连得稳。这篇把我们和三类产品逐项摆在一起，各自适合谁、我们是怎么做的，付费前先看清楚。
 
 ## 一句话定位
 
@@ -59,7 +59,7 @@
 
 **我怎么验证你们说的这些？** 领 24 小时试用，在晚高峰连中国区看一集腾讯视频、连海外地区开 YouTube，查 IP 归属地和 IPv6 检测页。验货清单在《回国 VPN 怎么选》里。
 
-**改名雷顿之前是谁？** 2026 年 8 月之前叫 ViPiN，同一家公司、同一个团队、同一套服务，账号和价格都没变，只是换了名字。
+**改名雷腾之前是谁？** 2026 年 8 月之前叫 ViPiN，同一家公司、同一个团队、同一套服务，账号和价格都没变，只是换了名字。
 
 ## 延伸阅读
 
@@ -71,4 +71,4 @@
 本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-04) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-04)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-04) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-04)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

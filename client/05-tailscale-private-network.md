@@ -2,7 +2,7 @@
 
 > 网站版（更长、含繁体与英文）：https://www.leotun.com/zh-CN/guides/tailscale-mesh?utm_source=github&utm_content=client-05
 
-私网栏目用的是 Tailscale（基于 WireGuard 的组网工具），雷顿自己运行控制服务器，你用**本站账号**登录，与 Tailscale 官方账号无关。登录一次就一直在线，出口地区在菜单里随时换。它和 VPN 的区别、适合谁，见 [网络指南 03](../network/03-private-network-vs-vpn.md)。
+私网栏目用的是 Tailscale（基于 WireGuard 的组网工具），雷腾自己运行控制服务器，你用**本站账号**登录，与 Tailscale 官方账号无关。登录一次就一直在线，出口地区在菜单里随时换。它和 VPN 的区别、适合谁，见 [网络指南 03](../network/03-private-network-vs-vpn.md)。
 
 ## 安装
 
@@ -37,4 +37,4 @@
 - 校园网 / 公司网限制 UDP：WireGuard 走 UDP，只能靠中继，很慢；换 AnyConnect。
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=client-05) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=client-05)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=client-05) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=client-05)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

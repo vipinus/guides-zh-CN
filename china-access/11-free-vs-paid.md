@@ -24,7 +24,7 @@
 
 ## 付费该花多少
 
-雷顿 个人档每月 4 美元，包含 24 个地区、2 台设备同时在线、AnyConnect / OpenVPN / Hiddify / 网页代理全部接入方式，也能用路由器。家庭档、企业档分别是个人档的 2 倍、4 倍价，地区、线路和接入方式三档完全一样，差别只在同时在线台数（4 台、8 台）。
+雷腾 个人档每月 4 美元，包含 24 个地区、2 台设备同时在线、AnyConnect / OpenVPN / Hiddify / 网页代理全部接入方式，也能用路由器。家庭档、企业档分别是个人档的 2 倍、4 倍价，地区、线路和接入方式三档完全一样，差别只在同时在线台数（4 台、8 台）。
 
 不想按月买的有两条路：先领 24 小时免费试用（不要信用卡，每个账号一次）在晚高峰试一次；或者按天付——充值积分后个人档每天 1 积分，25 积分 8 美元，算下来一天约 0.32 美元，回国前只买几天正合适。
 
@@ -60,4 +60,4 @@
 本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-11) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-11)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-11) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-11)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

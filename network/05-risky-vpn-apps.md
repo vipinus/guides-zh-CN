@@ -38,7 +38,7 @@ VPN 是系统级的：它拿到的是设备上所有程序的流量，包括你�
 
 ## 我们怎么让你能核实
 
-雷顿的客户端全部来自官方和开源社区的各个知名组织：Cisco、OpenVPN、Hiddify、Tailscale，原样镜像不修改，你随时可以用官方或开源客户端替换本站下载的那份。协议全是标准协议，能抓包验证。
+雷腾的客户端全部来自官方和开源社区的各个知名组织：Cisco、OpenVPN、Hiddify、Tailscale，原样镜像不修改，你随时可以用官方或开源客户端替换本站下载的那份。协议全是标准协议，能抓包验证。
 
 注册只需要邮箱，不要手机号、不要身份证。我们只保留计费需要的信息；不记录访问内容，不注入广告，不出售数据。
 
@@ -66,4 +66,4 @@ VPN 是系统级的：它拿到的是设备上所有程序的流量，包括你�
 本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/risky-vpn-apps?utm_source=github&utm_content=network-05
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-05) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-05)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-05) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-05)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

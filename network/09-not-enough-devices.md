@@ -1,6 +1,6 @@
 # 09 · 连接不够设备用怎么办
 
-一个雷顿账号能装在任意多台设备上，限制的只是同时在线的台数：个人档 2 台、家庭档 4 台、企业档 8 台。不够用时先确认是不是真的不够，再看是临时还是长期：临时多几台（亲友来访、出差多带设备），就临时升一档，用完切回，剩余时长按价格等值折算，只为多出来的那几天付差价；长期不够，就直接换到更高一档，或者用一台路由器把家里的设备合成一台。
+一个雷腾账号能装在任意多台设备上，限制的只是同时在线的台数：个人档 2 台、家庭档 4 台、企业档 8 台。不够用时先确认是不是真的不够，再看是临时还是长期：临时多几台（亲友来访、出差多带设备），就临时升一档，用完切回，剩余时长按价格等值折算，只为多出来的那几天付差价；长期不够，就直接换到更高一档，或者用一台路由器把家里的设备合成一台。
 
 三档的价格、换档折算规则的完整说明见 [08 · 账号三档怎么选、续费与付款](08-account-tiers-and-payment.md)。
 
@@ -56,4 +56,4 @@
 本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-09) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-09)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-09) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-09)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

@@ -19,7 +19,7 @@ Windows 上还有开源的 OpenConnect-GUI 可选，账号通用。
 
 ## 连接四步
 
-1. 打开客户端，地址栏填服务器地址。雷顿用户在网站上**点地区国旗**即可复制该地区的地址。
+1. 打开客户端，地址栏填服务器地址。雷腾用户在网站上**点地区国旗**即可复制该地区的地址。
 2. 填账号（注册邮箱）和密码。
 3. 看到「已连接」后，打开一个查 IP 的网页确认出口在你选的地区。
 4. 换地区就换一个地址，客户端会记住用过的地址，下次下拉选。
@@ -37,4 +37,4 @@ Windows 上还有开源的 OpenConnect-GUI 可选，账号通用。
 | Connection attempt has failed | 这个地址暂时不可达，换地区 |
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=client-01) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=client-01)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=client-01) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=client-01)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

@@ -2,7 +2,7 @@
 
 > 网站版（更长、含繁体与英文）：https://www.leotun.com/zh-CN/guides/singbox-subscription?utm_source=github&utm_content=client-02
 
-流量伪装（Hiddify）的"订阅"就是一个 HTTPS 地址，客户端从那里下载一份完整配置——服务器、端口、凭据、分流规则都在里面，不用手填。雷顿用户登录网站后，每个地区都有自己的二维码和配置地址。
+流量伪装（Hiddify）的"订阅"就是一个 HTTPS 地址，客户端从那里下载一份完整配置——服务器、端口、凭据、分流规则都在里面，不用手填。雷腾用户登录网站后，每个地区都有自己的二维码和配置地址。
 
 ## 三种链接
 
@@ -12,7 +12,7 @@
 | 导入链接（深链） | `sing-box://import-remote-profile?url=…` | 点一下唤起 App 自动添加。二维码里装的就是它 |
 | 分享链接 | `hysteria2://…` | 一行文本只描述一个节点，不带规则。给 NekoBox、Shadowrocket、Stash、Clash Meta 这类不读 Hiddify JSON 的客户端 |
 
-**订阅转换**：把一种格式转成另一种的第三方网站。雷顿两种格式都直接给，**不需要转换**；把带凭据的链接交给转换站等于把账号交给第三方，别这么做。
+**订阅转换**：把一种格式转成另一种的第三方网站。雷腾两种格式都直接给，**不需要转换**；把带凭据的链接交给转换站等于把账号交给第三方，别这么做。
 
 ## 手机：Hiddify 扫码或点击导入
 
@@ -49,4 +49,4 @@
 **二维码能发给家人吗？** 二维码含你的账号凭据，发给谁就是把账号给谁。家人共用允许（按档位个人 2 台、家庭 4 台、企业 8 台同时在线），别发到公开的地方；泄露了改密码即失效。
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=client-02) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=client-02)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=client-02) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=client-02)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

@@ -47,4 +47,4 @@
 本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-12) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-12)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-12) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-12)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

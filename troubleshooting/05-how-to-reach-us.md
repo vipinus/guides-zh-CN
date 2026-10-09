@@ -31,9 +31,9 @@
 
 ## 安全提醒
 
-- 官方群只有联络页上的几个，别处的「雷顿群」「客服私聊」都不是我们。
+- 官方群只有联络页上的几个，别处的「雷腾群」「客服私聊」都不是我们。
 - 群主和客服不会私聊要密码、验证码或付款。
 - 别在群里贴配置文件、二维码、订阅链接——那等于你的账号。
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=troubleshooting-05) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=troubleshooting-05)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=troubleshooting-05) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=troubleshooting-05)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

@@ -21,7 +21,7 @@
 
 ## 连上了还提示版权限制
 
-出口 IP 已经是中国大陆、网站仍提示版权限制，九成是设备的 **IPv6 或本机 DNS 绕过了线路**。雷顿的三种整机接入 2026-09 起已在线路侧拦住 IPv6；9 月以前导入的流量伪装配置要删掉重新扫码。排查步骤见 [IPv6 和 DNS 是漏网之鱼](../troubleshooting/03-ipv6-and-dns-leak.md)。
+出口 IP 已经是中国大陆、网站仍提示版权限制，九成是设备的 **IPv6 或本机 DNS 绕过了线路**。雷腾的三种整机接入 2026-09 起已在线路侧拦住 IPv6；9 月以前导入的流量伪装配置要删掉重新扫码。排查步骤见 [IPv6 和 DNS 是漏网之鱼](../troubleshooting/03-ipv6-and-dns-leak.md)。
 
 ## 电视上看
 
@@ -35,4 +35,4 @@
 1080p 需要稳定 5 Mbps 以上。晚上高峰期卡顿就挑绿灯的地区或换一种接入方式；还是卡的话，通常是本地宽带的原因。选离你近、到大陆有优化线路的入口，比换平台管用。
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-02) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-02)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-02) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-02)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

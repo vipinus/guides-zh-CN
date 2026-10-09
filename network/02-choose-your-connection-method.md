@@ -1,6 +1,6 @@
 # 02 · 各种连接方式适用的场景
 
-一个雷顿账号有六种接入方式：私网（Tailscale）、思科（AnyConnect）、专网（OpenVPN）、网页代理、流量伪装（Hiddify）、路由器。每种方式各有最适合的场景，这篇直接按场景给答案：先按你用的设备，再按你所在的网络，最后按你要做的事；每个场景都写了推荐、原因和备选。记住一条：六种方式同一个账号，总有一种适合你的网络。
+一个雷腾账号有六种接入方式：私网（Tailscale）、思科（AnyConnect）、专网（OpenVPN）、网页代理、流量伪装（Hiddify）、路由器。每种方式各有最适合的场景，这篇直接按场景给答案：先按你用的设备，再按你所在的网络，最后按你要做的事；每个场景都写了推荐、原因和备选。记住一条：六种方式同一个账号，总有一种适合你的网络。
 
 ## 按设备：你用什么上网
 
@@ -78,4 +78,4 @@
 本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/choose-connection?utm_source=github&utm_content=network-02
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-02) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-02)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-02) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-02)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

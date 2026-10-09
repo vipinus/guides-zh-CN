@@ -1,6 +1,6 @@
 # 08 · 账号三档怎么选、续费与付款
 
-雷顿 的账号分个人、家庭、企业三档，差别只在价格和同时在线台数，地区、流量、接入方式三档完全一样。这篇讲清楚：三档各给什么、怎么选；新账号是哪一档、买的时候怎么换档、换档时剩下的时间怎么算；买得越久折扣怎么走；支付宝、PayPal、信用卡怎么付，国内付款时页面为什么会跳一下；积分按天付适合谁；免费试用和邀请奖励在各档是多少；以及到期以后会怎样。
+雷腾 的账号分个人、家庭、企业三档，差别只在价格和同时在线台数，地区、流量、接入方式三档完全一样。这篇讲清楚：三档各给什么、怎么选；新账号是哪一档、买的时候怎么换档、换档时剩下的时间怎么算；买得越久折扣怎么走；支付宝、PayPal、信用卡怎么付，国内付款时页面为什么会跳一下；积分按天付适合谁；免费试用和邀请奖励在各档是多少；以及到期以后会怎样。
 
 ## 三档一览
 
@@ -117,4 +117,4 @@
 - [常见问题与联系客服](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-08)
 
 ---
-由 [雷顿](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-08) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-08)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-08) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-08)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
