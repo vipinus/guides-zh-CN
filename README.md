@@ -10,7 +10,7 @@
 | 怎么领 | 得到什么 |
 |---|---|
 | 注册后领免费试用 | 24 小时全功能试用，不要信用卡 |
-| 邀请朋友注册并首次付费 | 你的有效期 +30 天（家庭档 +15 天、企业档 +7.5 天），每位朋友一次，人数不限 |
+| 邀请朋友注册并首次付费 | 你和朋友的有效期各 +20 天（按个人档计；家庭档 +10 天、企业档 +5 天，各按自己的档位算），每位朋友一次，人数不限 |
 
 网站：<https://www.leotun.com/zh-CN?utm_source=github&utm_content=readme> · 联系我们：<https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=readme>
 

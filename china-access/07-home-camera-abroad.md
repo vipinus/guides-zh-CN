@@ -35,4 +35,4 @@
 家里监控的画面只应该在你的设备和家里之间流动。私有网络方案优先点对点直连，直连不通时才经中继转发，画面不会存在任何服务器上；厂商云端方案则经过厂商。两种都不要用来路不明的"穿透工具"，那等于把家里的摄像头交给别人。
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-07) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-07)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-07) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-07)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效

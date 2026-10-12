@@ -82,11 +82,11 @@
 | | 个人 | 家庭 | 企业 |
 |---|---|---|---|
 | 免费试用 | 24 小时 | 12 小时 | 6 小时 |
-| 每邀请一位朋友首次付费 | +30 天 | +15 天 | +7.5 天 |
+| 每邀请一位朋友首次付费（你和朋友各得） | +20 天 | +10 天 | +5 天 |
 | 买路由器附赠服务（24 个月的型号） | 24 个月 | 12 个月 | 6 个月 |
 
 - 试用：注册后在首页领，不要信用卡；试用码发到邮箱，填 6 位码开通；每个账号一次。新账号是个人档，所以一般拿到的是 24 小时。
-- 邀请：朋友用你的推荐链接注册、完成首次付款后，你的有效期直接延长，人数不限。天数按你当时的档位算。
+- 邀请：朋友用你的推荐链接注册、完成首次付款后，你和朋友的有效期都直接延长，人数不限。天数各按自己当时的档位算。
 - 这些数字都按价格倍数反比折算，换哪一档拿到的价值都一样。
 
 ## 到期以后
@@ -117,4 +117,4 @@
 - [常见问题与联系客服](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-08)
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-08) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-08)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-08) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-08)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效

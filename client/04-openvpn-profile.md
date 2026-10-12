@@ -43,4 +43,4 @@ OpenVPN 是老牌开源协议，几乎所有系统、路由器固件、NAS 都�
 配置文件里带账号密码，等于账号本身，别外传；泄露了在网站改密码，旧文件立刻失效。线路的握手本身也加了密，没有配置里的密钥连握手都发不起，服务器对扫描器不可见。
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=client-04) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=client-04)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=client-04) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=client-04)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
