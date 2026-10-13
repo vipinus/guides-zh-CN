@@ -50,7 +50,7 @@
 
 **一个账号几台设备？** 雷腾 按档位同时在线：个人 2 台、家庭 4 台、企业 8 台；路由器算一台，它后面的设备不再单独计数。同时在线超过档位上限时，可以临时升级账号类型（剩余时间按价格等值折算），用完之后再切回。
 
-**能用 Clash 吗？** 能。雷腾同时给 Hiddify 配置地址和 hysteria2 分享链接，Clash Meta 导入分享链接即可；导入后把国内域名设成走节点，别设"直连"。
+**能用 Clash 吗？** 能。雷腾同时给 sing-box 订阅、Clash 订阅和 hysteria2 分享链接，Clash Meta、Clash Verge、FlClash、Stash 等点"Clash 订阅"按钮，把地址粘贴进客户端的订阅列表即可，不需要订阅转换，也不要用分享链接；原版 Clash 和 Clash for Windows 内核没有 hysteria2，用不了。这份订阅默认除本机局域网外全部走节点，回国看视频不用再改规则；自己加规则时别把国内域名设成"直连"。
 
 ---
 由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-08) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-08)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
