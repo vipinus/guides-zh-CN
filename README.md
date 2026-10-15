@@ -3,7 +3,7 @@
 
 跨境访问的原理、场景、客户端设置、路由器与排障，一篇讲一件事，不堆术语。由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=readme) 团队维护。
 
-其他语言：[繁體中文](https://github.com/vipinus/guides-zh-TW) · [English](https://github.com/vipinus/guides-en)
+其他语言：[English](https://github.com/vipinus/guides-en) · 简体中文 · [繁體中文](https://github.com/vipinus/guides-zh-TW) · [العربية](https://github.com/vipinus/guides-ar) · [Deutsch](https://github.com/vipinus/guides-de) · [Español](https://github.com/vipinus/guides-es) · [فارسی](https://github.com/vipinus/guides-fa) · [Français](https://github.com/vipinus/guides-fr) · [हिन्दी](https://github.com/vipinus/guides-hi) · [Bahasa Indonesia](https://github.com/vipinus/guides-id) · [日本語](https://github.com/vipinus/guides-ja) · [한국어](https://github.com/vipinus/guides-ko) · [Português](https://github.com/vipinus/guides-pt) · [Русский](https://github.com/vipinus/guides-ru) · [ไทย](https://github.com/vipinus/guides-th) · [Türkçe](https://github.com/vipinus/guides-tr) · [Tiếng Việt](https://github.com/vipinus/guides-vi)
 
 ## 长期福利：免费时长，一直有效
 
