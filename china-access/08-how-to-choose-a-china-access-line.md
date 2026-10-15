@@ -15,7 +15,7 @@
 | 项目 | 怎么看 | 不合格的表现 |
 |---|---|---|
 | 出口地区 | 连上后查 IP 归属地 | 港台日韩地址 |
-| IPv6 与 DNS | 搜"test ipv6"打开检测页 | IPv6 栏显示你所在国家 → 视频站仍会拦，见[排障 06](../troubleshooting/03-ipv6-and-dns-leak.md) |
+| IPv6 与 DNS | 搜"test ipv6"打开检测页 | IPv6 栏显示你所在国家 → 视频站仍会拦，见[排障 03](../troubleshooting/03-ipv6-and-dns-leak.md) |
 | 客户端 | 是不是标准协议（AnyConnect、OpenVPN、Hiddify） | 只有一个私有 App，下架就没得用 |
 | 带宽 | 北京时间晚 8–11 点播 1080p | 白天快晚上转圈 |
 | 多设备与路由器 | 一个账号几台、能不能路由器整机接入 | 每台设备单独买 |
