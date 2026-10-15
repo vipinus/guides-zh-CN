@@ -37,7 +37,7 @@ Clash Meta（mihomo）、Clash Verge、FlClash、Stash 等点"Clash 订阅"按�
 
 点"分享链接"按钮，在 NekoBox / Shadowrocket / v2rayN / v2rayNG 等客户端里"从剪贴板导入"，或者点完按钮后扫上面的二维码。分享链接不带规则，分流和 IPv6 要自己设：海外看国内内容的，把国内域名设成走节点、关闭 IPv6。
 
-按钮上 v2rayN 之后的那些客户端都支持 hysteria2，但线路用了端口跳跃，少数客户端解析不了；导入失败或连不上，就换 Hiddify。
+按钮上 v2rayN 之后的那些客户端都支持 hysteria2，但分享链接用了 hysteria2 的扩展写法，少数客户端解析不了；导入失败或连不上，就换 Hiddify。
 
 ## 用不了的客户端
 
