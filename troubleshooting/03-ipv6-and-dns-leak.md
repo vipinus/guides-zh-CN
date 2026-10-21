@@ -34,4 +34,4 @@
 | 用的是网页代理 | 浏览器能看、App 不能 | 看视频要整机隧道，网页代理只管浏览器 |
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=troubleshooting-03) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=troubleshooting-03)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=troubleshooting-03) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=troubleshooting-03)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效

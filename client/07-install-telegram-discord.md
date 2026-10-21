@@ -25,4 +25,4 @@
 - 遇到装不上、闪退，把系统版本和机型告诉客服，多数是机型或版本不匹配。
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=client-07) 团队整理 · 有问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=client-07)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=client-07) 团队整理 · 有问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=client-07)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效

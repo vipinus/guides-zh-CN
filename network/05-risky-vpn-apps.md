@@ -66,4 +66,4 @@ VPN 是系统级的：它拿到的是设备上所有程序的流量，包括你�
 本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/risky-vpn-apps?utm_source=github&utm_content=network-05
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-05) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-05)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-05) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-05)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效

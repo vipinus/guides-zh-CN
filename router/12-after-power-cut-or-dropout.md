@@ -45,4 +45,4 @@
 **组件更新会打断上网吗？** 不会。更新在开机时检查和下载，下一次开机才生效，不会在你用的时候突然重启。
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=router-12) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=router-12)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=router-12) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=router-12)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效

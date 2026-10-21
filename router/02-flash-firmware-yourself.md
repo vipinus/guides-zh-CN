@@ -131,4 +131,4 @@
 **以后升级固件要重刷吗？** 日常的小更新路由器会自己完成，不用管。只有大版本升级才需要重新生成、刷一次 sysupgrade 文件，届时网站会通知。
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=router-02) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=router-02)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=router-02) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=router-02)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效

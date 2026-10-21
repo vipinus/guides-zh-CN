@@ -35,4 +35,4 @@
 1080p 需要稳定 5 Mbps 以上。晚上高峰期卡顿就挑绿灯的地区或换一种接入方式；还是卡的话，通常是本地宽带的原因。选离你近、到大陆有优化线路的入口，比换平台管用。
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-02) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-02)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-02) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-02)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效

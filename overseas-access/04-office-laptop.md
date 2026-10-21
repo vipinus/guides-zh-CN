@@ -49,4 +49,4 @@
 本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/office-laptop?utm_source=github&utm_content=overseas-access-04
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=overseas-access-04) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-04)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=overseas-access-04) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-04)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效

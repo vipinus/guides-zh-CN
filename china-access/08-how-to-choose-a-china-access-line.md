@@ -53,4 +53,4 @@
 **能用 Clash 吗？** 能。雷腾同时给 sing-box 订阅、Clash 订阅和 hysteria2 分享链接，Clash Meta、Clash Verge、FlClash、Stash 等点"Clash 订阅"按钮，把地址粘贴进客户端的订阅列表即可，不需要订阅转换，也不要用分享链接；原版 Clash 和 Clash for Windows 内核没有 hysteria2，用不了。这份订阅默认除本机局域网外全部走节点，回国看视频不用再改规则；自己加规则时别把国内域名设成"直连"。
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-08) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-08)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-08) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-08)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效

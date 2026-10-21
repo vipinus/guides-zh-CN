@@ -28,7 +28,7 @@
 
 不想按月买的有两条路：先领 4 小时免费试用（不要信用卡，每个账号一次）在晚高峰试一次；或者按天付——充值积分后个人档每天 1 积分，25 积分 8 美元，算下来一天约 0.32 美元，回国前只买几天正合适。
 
-邀请朋友注册并首次付费，你和朋友的有效期各加 20 天（按个人档计），人数不限，这是长期的免费时长来源。
+邀请朋友注册并首次付费，你和朋友各得 15 积分（约个人档 15 天），人数不限，这是长期的免费时长来源。
 
 ## 付费之前怎么验货
 
@@ -60,4 +60,4 @@
 本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-11) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-11)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-11) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-11)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效

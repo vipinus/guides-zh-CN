@@ -47,4 +47,4 @@ Google 学术对**访问频率**比较敏感。如果你用脚本批量抓，或
 真正需要选欧美的情况是：某些出版社按访问来源做区域限制，或者你的机构账号绑定了特定地区。遇到再换即可。
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=overseas-access-08) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-08)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=overseas-access-08) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-08)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效

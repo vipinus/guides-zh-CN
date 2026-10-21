@@ -46,4 +46,4 @@
 多数服务会把路由器和账号绑定（按 MAC 地址），一个账号绑一台路由器，换路由器时先解绑。这样账号只归你自己用。
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=router-03) 团队整理 · 有问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=router-03)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=router-03) 团队整理 · 有问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=router-03)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效
