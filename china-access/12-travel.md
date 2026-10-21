@@ -29,7 +29,7 @@
 
 ## 常见问题
 
-**旅行只有几天，要买一个月吗？** 不用。领 24 小时免费试用，或者充积分按天付：个人档每天 1 积分，一天约 0.32 美元，几天正合适。
+**旅行只有几天，要买一个月吗？** 不用。领 4 小时免费试用，或者充积分按天付：个人档每天 1 积分，一天约 0.32 美元，几天正合适。
 
 **手机和笔记本能同时连吗？** 能，一个账号按档位 2 / 4 / 8 台设备同时在线（个人 / 家庭 / 企业），个人档正好一部手机加一台笔记本。
 
@@ -47,4 +47,4 @@
 本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-12) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-12)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=china-access-12) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=china-access-12)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效

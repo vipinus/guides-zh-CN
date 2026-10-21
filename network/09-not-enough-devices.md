@@ -22,7 +22,7 @@
 
 ## 临时升档要花多少：算一笔账
 
-三档价格是 1 : 2 : 4（个人 $4、家庭 $8、企业 $16 每月），所以换档时剩余时长按这个比例换算，谁也不吃亏。举例：家庭档还剩 30 天，临时切到企业档变成 15 天；用了 3 天还剩 12 天，切回家庭档变成 24 天。和一直用家庭档（30 − 3 = 27 天）相比少了 3 天——也就是说，这 3 天按企业档的价格算，多付的只是这 3 天的差价。
+三档价格是 1 : 2 : 4（个人 $5、家庭 $10、企业 $20 每月），所以换档时剩余时长按这个比例换算，谁也不吃亏。举例：家庭档还剩 30 天，临时切到企业档变成 15 天；用了 3 天还剩 12 天，切回家庭档变成 24 天。和一直用家庭档（30 − 3 = 27 天）相比少了 3 天——也就是说，这 3 天按企业档的价格算，多付的只是这 3 天的差价。
 
 两个限制：30 分钟内发起过付款但没完成，会切不了，把那笔付款完成或放弃后等半小时再切；切回低档时，如果在线设备还超过低档的上限，网站会提示先断开多余设备。
 
@@ -56,4 +56,4 @@
 本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-09) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-09)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-09) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-09)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效

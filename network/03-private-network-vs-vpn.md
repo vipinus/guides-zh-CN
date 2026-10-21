@@ -31,4 +31,4 @@
 安装与登录步骤见 [客户端指南 05](../client/05-tailscale-private-network.md)。
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-03) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-03)（群、邮件、客服都在上面） · 注册领 24 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-03) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-03)（群、邮件、客服都在上面） · 注册领 4 小时免费试用，邀请朋友付费，双方各得 20 天个人档有效期，长期有效
