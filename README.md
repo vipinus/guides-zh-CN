@@ -9,7 +9,7 @@
 
 | 怎么领 | 得到什么 |
 |---|---|
-| 注册后领免费试用 | 4 小时全功能试用，不要信用卡 |
+| 注册后领免费试用 | 30 分钟全功能试用，不要信用卡 |
 | 邀请朋友注册并首次付费 | 你和朋友各得 15 积分（个人档每天 1 积分，约 15 天），直接加到积分余额，每位朋友一次，人数不限 |
 
 网站：<https://www.leotun.com/zh-CN?utm_source=github&utm_content=readme> · 联系我们：<https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=readme>
