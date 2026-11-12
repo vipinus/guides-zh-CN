@@ -4,7 +4,7 @@
 
 1. **插电、接网线**：路由器的 WAN 口接原来的光猫或上级路由器，等指示灯稳定，约一分钟。
 2. **连 Wi-Fi**：默认 Wi-Fi 名和密码印在说明卡上（出厂默认都是网站域名），连上后打开浏览器访问管理地址 `http://192.168.11.1`。
-3. **登录账号**：管理页里填你的账号邮箱和密码，保存（个人、家庭、企业三档账号都能用路由器）。之后所有连这个 Wi-Fi 的设备自动走线路。
+3. **登录账号**：管理页里填你的账号邮箱和密码，保存（六档付费账号都能用路由器）。之后所有连这个 Wi-Fi 的设备自动走线路。
 
 ## 改掉默认密码
 
@@ -20,4 +20,4 @@
 - **想换一台路由器**：先在网站上解绑旧的，见[MAC 绑定与换路由器](05-mac-binding-and-replacing.md)。
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=router-01) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=router-01)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=router-01) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=router-01)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约基础档 15 天），长期有效

@@ -17,7 +17,7 @@ AI 客服「海绵宝宝」24 小时在 Telegram、QQ、Discord 三个群里回�
 |---|---|
 | 连不上 | Windows 11，思科连日本，一直转圈最后提示连接超时，换了韩国也一样，家里宽带是联通 |
 | 很慢 | iPhone 用流量伪装，选新加坡，网页能开但视频一直缓冲，晚上 9 点以后特别明显 |
-| 怎么弄 | 刚买了家庭档，想让家里的小米电视也能用，有没有办法？ |
+| 怎么弄 | 刚买了普通档，想让家里的小米电视也能用，有没有办法？ |
 | 一条消息问续费、换地区和路由器 | 一次问一件事，解决了再问下一件 |
 
 ## 在三个群里怎么让它回你
@@ -51,4 +51,4 @@ AI 客服「海绵宝宝」24 小时在 Telegram、QQ、Discord 三个群里回�
 - 客服不会私聊要密码、验证码或付款，也不会主动要你装远程控制软件。
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=troubleshooting-10) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=troubleshooting-10)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=troubleshooting-10) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=troubleshooting-10)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约基础档 15 天），长期有效

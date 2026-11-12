@@ -45,7 +45,7 @@
 
 ## 名额用满了怎么办
 
-同一个账号同时在线的设备数按档位：个人 2 台、家庭 4 台、企业 8 台。换设备时如果旧设备还挂着，可能会提示已达上限。三个办法：
+同一个账号同时在线的设备数按档位：基础 2 台、普通 4 台、专业 8 台、精英 16 台、企业 32 台、旗舰 64 台。换设备时如果旧设备还挂着，可能会提示已达上限。三个办法：
 
 - 在旧设备上退出登录或关掉客户端
 - 等一会儿——闲置的连接会自动释放
@@ -54,4 +54,4 @@
 网页上能看到当前有几台设备在线、分别是哪一类，可以据此判断是不是有设备忘了关。
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=troubleshooting-07) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=troubleshooting-07)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=troubleshooting-07) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=troubleshooting-07)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约基础档 15 天），长期有效

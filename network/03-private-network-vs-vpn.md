@@ -26,9 +26,9 @@
 
 ## 到期和设备数
 
-设备登录有效期跟账号到期日走，到期几分钟内离线，续费后重新登录即可。同时在线台数按档位（个人 2 台、家庭 4 台、企业 8 台），与其他接入方式共用额度；同时在线超过档位上限时，可以临时升级账号类型（剩余时间按价格等值折算），用完之后再切回。
+设备登录有效期跟账号到期日走，到期几分钟内离线，续费后重新登录即可。同时在线台数按档位（基础 2 台、普通 4 台、专业 8 台、精英 16 台、企业 32 台、旗舰 64 台），与其他接入方式共用额度；同时在线超过档位上限时，可以临时升级账号类型（剩余时间按价格等值折算），用完之后再切回。
 
 安装与登录步骤见 [客户端指南 05](../client/05-tailscale-private-network.md)。
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-03) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-03)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=network-03) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=network-03)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约基础档 15 天），长期有效

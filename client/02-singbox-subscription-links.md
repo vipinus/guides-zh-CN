@@ -62,7 +62,7 @@ Clash Meta（mihomo）、Clash Verge、FlClash、Stash 等点"Clash 订阅"按�
 
 **一份配置能包含所有地区吗？** 点国旗导入的是每个地区一份，在客户端配置列表里切换，这样某个地区换地址只影响它自己。想一次导入境外全部地区、由客户端自动选，点页面上方的"导入所有自动选择"（只有 sing-box 订阅和 Clash 订阅两个按钮）。
 
-**二维码能发给家人吗？** 二维码含你的账号凭据，发给谁就是把账号给谁。家人共用允许（按档位个人 2 台、家庭 4 台、企业 8 台同时在线），别发到公开的地方；泄露了改密码即失效。
+**二维码能发给家人吗？** 二维码含你的账号凭据，发给谁就是把账号给谁。家人共用允许（按档位基础 2 台、普通 4 台、专业 8 台、精英 16 台、企业 32 台、旗舰 64 台同时在线），别发到公开的地方；泄露了改密码即失效。
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=client-02) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=client-02)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=client-02) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=client-02)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约基础档 15 天），长期有效

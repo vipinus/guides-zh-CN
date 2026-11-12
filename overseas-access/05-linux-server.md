@@ -34,7 +34,7 @@ Docker 守护进程不读 shell 环境变量，要写进 /etc/systemd/system/doc
 
 ## 要知道的
 
-- 一台 Linux 算一台设备，与其他设备共用同时在线额度（个人 2 台、家庭 4 台、企业 8 台）；路二的网页代理按连接计，也算在内。
+- 一台 Linux 算一台设备，与其他设备共用同时在线额度（基础 2 台、普通 4 台、专业 8 台、精英 16 台、企业 32 台、旗舰 64 台）；路二的网页代理按连接计，也算在内。
 - 配置文件和密码文件等于你的账号，别提交进 git 仓库、别放进镜像。
 - 改密码后旧配置立刻失效，这是设计上的吊销手段；更新密码文件即可。
 - 云服务器上跑线路请遵守服务商的使用条款；线路只记录连接时长和流量总量。
@@ -59,4 +59,4 @@ Docker 守护进程不读 shell 环境变量，要写进 /etc/systemd/system/doc
 本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/linux-server?utm_source=github&utm_content=overseas-access-05
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=overseas-access-05) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-05)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=overseas-access-05) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-05)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约基础档 15 天），长期有效

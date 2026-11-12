@@ -10,7 +10,7 @@
 | 怎么领 | 得到什么 |
 |---|---|
 | 注册后领免费试用 | 30 分钟全功能试用，不要信用卡 |
-| 邀请朋友注册并首次付费 | 你和朋友各得 15 积分（个人档每天 1 积分，约 15 天），直接加到积分余额，每位朋友一次，人数不限 |
+| 邀请朋友注册并首次付费 | 你和朋友各得 15 积分（基础档每天 1 积分，约 15 天），直接加到积分余额，每位朋友一次，人数不限 |
 
 网站：<https://www.leotun.com/zh-CN?utm_source=github&utm_content=readme> · 联系我们：<https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=readme>
 
@@ -66,7 +66,7 @@
 | [05 · 如何识别有风险的 VPN 软件](network/05-risky-vpn-apps.md) |
 | [06 · 为什么有时候快、有时候慢](network/06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · 哪些问题靠线路解决，哪些要另找办法](network/07-when-you-do-not-need-us.md) |
-| [08 · 账号三档怎么选、续费与付款](network/08-account-tiers-and-payment.md) |
+| [08 · 账号档位怎么选、续费与付款](network/08-account-tiers-and-payment.md) |
 | [09 · 连接不够设备用怎么办](network/09-not-enough-devices.md) |
 
 ### [客户端安装与设置 · Client Guides](client/)

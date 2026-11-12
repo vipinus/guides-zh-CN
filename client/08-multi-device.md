@@ -11,7 +11,7 @@
 
 ## 同时在线台数怎么算
 
-一个账号可以装在任意多台设备上，限制的只是同时在线的数量：个人 2 台、家庭 4 台、企业 8 台，和思科、流量伪装等其他方式共用同一个额度。同时在线超过档位上限时，可以临时升级账号类型（剩余时间按价格等值折算），用完之后再切回。
+一个账号可以装在任意多台设备上，限制的只是同时在线的数量：基础 2 台、普通 4 台、专业 8 台、精英 16 台、企业 32 台、旗舰 64 台，和思科、流量伪装等其他方式共用同一个额度。同时在线超过档位上限时，可以临时升级账号类型（剩余时间按价格等值折算），用完之后再切回。
 
 路由器算一台，它后面的设备不计数。家里一台路由器或 NAS 加上随身的手机、笔记本，通常就够。
 
@@ -49,4 +49,4 @@
 本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/multi-device?utm_source=github&utm_content=client-08
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=client-08) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=client-08)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=client-08) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=client-08)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约基础档 15 天），长期有效

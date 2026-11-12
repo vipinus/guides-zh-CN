@@ -31,7 +31,7 @@ NAS 是家里最需要走线路又最没人管的设备：下载器要连海外�
 
 - 配置文件里带着你的账号，NAS 上的密码字段改密码后会失效：重新下载 .ovpn 替换，或者只改 VPN 配置里的密码。
 - 账号到期 NAS 会断线，续费后自动重连，配置不用换。
-- NAS 算一台设备，与其他设备共用同时在线额度（个人 2 台、家庭 4 台、企业 8 台）。
+- NAS 算一台设备，与其他设备共用同时在线额度（基础 2 台、普通 4 台、专业 8 台、精英 16 台、企业 32 台、旗舰 64 台）。
 - 线路走 UDP；NAS 放在家里宽带下几乎不会遇到限 UDP 的问题。
 
 ## 常见问题
@@ -54,4 +54,4 @@ NAS 是家里最需要走线路又最没人管的设备：下载器要连海外�
 本文网站版（含繁体与英文）：https://www.leotun.com/zh-CN/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-06
 
 ---
-由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=overseas-access-06) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-06)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约个人档 15 天），长期有效
+由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=overseas-access-06) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=overseas-access-06)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约基础档 15 天），长期有效
