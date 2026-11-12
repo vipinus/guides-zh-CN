@@ -17,7 +17,7 @@
 ## 常见问题
 
 - **指示灯正常但设备连上没网**：看管理页里账号状态，过期或密码错都会显示在那里。
-- **想换一台路由器**：先在网站上解绑旧的，见[MAC 绑定与换路由器](05-mac-binding-and-replacing.md)。
+- **想换一台路由器**：档位没绑满时新路由器直接连上；绑满了先在网站上解绑旧的，见[MAC 绑定与换路由器](05-mac-binding-and-replacing.md)。
 
 ---
 由 [雷腾](https://www.leotun.com/zh-CN?utm_source=github&utm_content=router-01) 团队整理 · 问题来 [联系页面](https://www.leotun.com/zh-CN/contact?utm_source=github&utm_content=router-01)（群、邮件、客服都在上面） · 注册领 30 分钟免费试用，邀请朋友付费，双方各得 15 积分（约基础档 15 天），长期有效
